@@ -1,4 +1,8 @@
 ### Still the tutorial
 
-**Name :** Gerry Agbobada
-**Fav Colour:** Blue
+Gerry Agbobada
+====
+
+- French
+- **Fav Colour:** *Blue*
+- Basketball
